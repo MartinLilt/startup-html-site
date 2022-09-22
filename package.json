@@ -1,0 +1,8 @@
+{
+  "name": "startup-html-site",
+  "version": "1.0.0",
+  "main": "index-01.html",
+  "repository": "https://github.com/MartinLilt/startup-html-site.git",
+  "author": "Martin Li <80705619+MartinLilt@users.noreply.github.com>",
+  "license": "MIT"
+}
